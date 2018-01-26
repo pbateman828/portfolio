@@ -1,10 +1,13 @@
-Commands for use:
+Commands for use: 
+
 ```sh
 $ make
 ```
+
 ```sh
 $ ./Aviato
 ```
+
 Named after a great start up.
 Text editor in C.
 
