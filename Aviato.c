@@ -187,7 +187,7 @@ int editorReadKey() {
         case 'F': return END_KEY;
       }
     }
-  } else if (seq[0] == 'O') { //possible fuckass
+  } else if (seq[0] == 'O') { //wrong way to do this.
     switch (seq[1]) {
       case 'H': return HOME_KEY;
       case 'F': return END_KEY;
